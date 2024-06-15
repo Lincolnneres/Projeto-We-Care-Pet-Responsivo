@@ -1,0 +1,149 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "montserrat", sans-serif;
+}
+
+.section-left {
+  display: inline-block;
+}
+
+.section-rigth {
+  display: inline-block;
+  margin-left: 86px;
+}
+
+header {
+  margin: 47px 0 144px 78px;
+}
+
+img {
+  margin-left: 125px;
+  width: 568px;
+  height: 500px;
+}
+
+.link-header {
+  margin-right: 28px;
+  width: 120px;
+  height: 29px;
+  font-size: 24px;
+  font-weight: 600;
+  line-height: 29.26px;
+  color: #989d9c;
+  cursor: pointer;
+  opacity: 0.6;
+}
+
+.button-header {
+  width: 87px;
+  height: 29px;
+  font-size: 24px;
+  font-weight: 600;
+  line-height: 29.26px;
+  color: #ffffff;
+  width: 130px;
+  height: 41px;
+  gap: 0px;
+  border-radius: 30px;
+  opacity: 0px;
+  background: #665ae1;
+  border: none;
+  cursor: pointer;
+}
+
+h1 {
+  font-size: 100px;
+  font-weight: 900;
+  line-height: 121.9px;
+  color: #515151;
+}
+
+h2 {
+  font-size: 58px;
+  font-weight: 500;
+  line-height: 71px;
+  color: #515151;
+}
+
+p {
+  width: 515px;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 29.26px;
+  color: #848484;
+  margin: 32px 0 65px 0;
+}
+
+.button-main {
+  width: 147px;
+  height: 26.02px;
+  font-size: 28px;
+  font-weight: 700;
+  line-height: 34px;
+  color: #000000;
+  width: 239px;
+  height: 64px;
+  border-radius: 30px;
+  background: #adff00;
+  border: none;
+  cursor: pointer;
+  filter: drop-shadow(0px 4px 4px rgba(3, 0, 0, 2.25));
+}
+
+.link-header:hover {
+  opacity: 0.3;
+}
+
+.button-main:hover {
+  opacity: 0.3;
+}
+
+.button-header:hover {
+  opacity: 0.2;
+}
+
+@media screen and (max-width: 800px) {
+  .section-left {
+    display: block;
+  }
+
+  .section-rigth {
+    display: block;
+  }
+  header {
+    display: none;
+  }
+
+  p {
+    display: none;
+  }
+
+  img {
+    margin-left: 20px;
+    width: 337px;
+    height: 298px;
+    margin-top: 135px;
+  }
+
+  h1 {
+    font-size: 50px;
+    font-weight: 900;
+    line-height: 60px;
+    color: #515151;
+    width: auto;
+    margin: 5px 0 -2px 0;
+  }
+
+  h2 {
+    font-size: 30px;
+    font-weight: 500;
+    line-height: 36px;
+    color: #515151;
+  }
+
+  .button-main {
+    margin: 15px auto;
+  }
+}
