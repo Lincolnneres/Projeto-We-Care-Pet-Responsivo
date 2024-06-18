@@ -9,4 +9,6 @@
 <br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="badge-html"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="badge-css"/>
-<img src= "https://github.com/Lincolnneres/Projeto-We-Care-Pet-Responsivo/blob/master/assets/Cell.png.png?raw=true" alt="projeto-wecare-cell" width= "35%" height="25%"/>
+<img src= "https://github.com/Lincolnneres/Projeto-We-Care-Pet-Responsivo/blob/master/assets/Cell.png.png?raw=true" alt="projeto-wecare-cell" width= "40%" height="25%" align="left"/>
+
+<img src="https://github.com/Lincolnneres/Projeto-We-Care-Pet-Responsivo/blob/master/assets/Desktop.png.png?raw=true" alt="mockup-desktop" width="40%" height="25%" align="right"/>
