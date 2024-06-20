@@ -1,4 +1,4 @@
-<h1>We Care Pet</h1>
+<h1>We Care Pet 🐾</h1>
 <br>
 
 <br>
